@@ -9,4 +9,4 @@
 - C, C++(입문)
 - REACT.JS(입문), VUE.JS(입문)
 
-[![JominJun's github stats](https://github-readme-stats.vercel.app/api?username=JominJun)](https://github.com/anuraghazra/github-readme-stats)
+[![JominJun's github stats](https://github-readme-stats.vercel.app/api?username=JominJun)](https://github.com/JominJun)
