@@ -1,12 +1,21 @@
-# 조민준(曺珉準)
-- KDMHS 19기 HD
-- 자랑스러운 [Aperture in Dimigo](https://github.com/ApertureInDimigo)의 일원
+<img src="profile.svg" height="200px">
 
-### 사용 가능한 언어
-- HTML, CSS, JS
-- PHP, MYSQL
-- PYTHON, GO(학습중), DART(입문)
-- C, C++(입문)
-- REACT.JS(학습중), VUE.JS(입문)
+## 소개
+### 한국디지털미디어고등학교 19기 해킹방어과
 
-[![JominJun's github stats](https://github-readme-stats.vercel.app/api?username=JominJun)](https://github.com/JominJun)
+<br>
+
+## 언어 및 프레임워크 스펙
+#### Python
+- Flask
+
+#### Javascript
+- React
+
+#### C
+#### Go
+#### PHP
+#### HTML & CSS
+
+![Minjun's github stats](https://github-readme-stats.vercel.app/api?username=JominJun&theme=vue&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JominJun&layout=compact&langs_count=8&hide=)
