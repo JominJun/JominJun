@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="310" height="232" viewBox="0 0 310 232">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="310" height="217" viewBox="0 0 310 217">
   <defs>
     <linearGradient id="linear-gradient" x1="0.5" y1="0.909" x2="0.5" y2="0.043" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#34d881"/>
       <stop offset="1" stop-color="#70ffbc"/>
     </linearGradient>
   </defs>
-  <g id="그룹_179" data-name="그룹 179" transform="translate(-805 -333)">
+  <g id="그룹_179" data-name="그룹 179" transform="translate(-805 -348)">
     <text id="MINJUN" transform="translate(961 516)" font-size="48" font-family="KoreanTITGD3-R, KoreanTITGD3R" letter-spacing="0.27em"><tspan x="-114.096" y="0">MINJUN</tspan></text>
     <text id="한국디지털미디어고등학교_19기" data-name="한국디지털미디어고등학교 19기" transform="translate(960 560)" fill="#333" font-size="24" font-family="KoreanGD12-R, KoreanGD12R"><tspan x="-154.236" y="0">한국디지털미디어고등학교 19기</tspan></text>
-    <g id="그룹_178" data-name="그룹 178" transform="translate(-17157.18 -2900.242)">
+    <g id="그룹_178" data-name="그룹 178" transform="translate(-17157.18 -2885.242)">
       <path id="패스_126" data-name="패스 126" d="M36.265,3.3Q35.519,1.815,34.7.374A.735.735,0,0,0,33.424.366L.1,58.087a.733.733,0,0,0,.635,1.1H36.58a.736.736,0,0,0,.669-.427,63.861,63.861,0,0,0,5.816-26.708A63.822,63.822,0,0,0,36.265,3.3Z" transform="translate(18129.373 3233.242) rotate(30)" fill="#34d881"/>
       <path id="패스_127" data-name="패스 127" d="M8.985,0C12.752,13.9,0,55.886,0,55.886H9.3a.736.736,0,0,0,.669-.427,63.861,63.861,0,0,0,5.816-26.708A63.819,63.819,0,0,0,8.985,0Z" transform="translate(18151.348 3249.74) rotate(30)" fill="url(#linear-gradient)"/>
       <path id="패스_124" data-name="패스 124" d="M3923.626,1298.777q-.747-1.485-1.565-2.926a.735.735,0,0,0-1.276-.009l-33.325,57.721a.733.733,0,0,0,.635,1.1h35.846a.736.736,0,0,0,.669-.427,64.209,64.209,0,0,0-.983-55.459Z" transform="translate(14206.955 1978.094)" fill="#34d881"/>
