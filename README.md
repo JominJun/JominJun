@@ -12,6 +12,6 @@
 ## 언어 및 프레임워크 스펙
 
 ![Minjun's github stats](https://github-readme-stats.vercel.app/api?username=JominJun&theme=vue&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JominJun&layout=compact&langs_count=8&hide=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JominJun&layout=compact&langs_count=8&theme=vue&hide=)
 
 #### Python, Go, JS, C, PHP, HTML&CSS, React, Flask
