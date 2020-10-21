@@ -2,7 +2,7 @@
   <img src="profile.svg" height="200px">
 </p>
 
-<br><br>
+<br>
 
 ## 소개
 > 한국디지털미디어고등학교 19기 해킹방어과
